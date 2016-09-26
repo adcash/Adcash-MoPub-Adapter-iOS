@@ -34,14 +34,15 @@ Give it a title **Adcash**, then scroll down for ad units (Adcash MoPub iOS Adap
 
 Custom Event Information from:
 * **Custom Event Class**
-  - For Banner: "AdcashMopubBanner"
-  - For Interstitial: "AdcashMopubInterstitial"
+- For Banner: "AdcashMopubBanner"
+- For Interstitial: "AdcashMopubInterstitial"
 * **Custom Event Class Data:**
-  - Enter your Zone ID from Adcash Publisher Panel. It has to be in JSON format
-example : {"id":"your_zone_id"}
+- Enter your Zone ID from Adcash Publisher Panel. It has to be in JSON format
+
+> example : {"id":"your_zone_id"}
 
 
-![](http://developer.adca.sh/wp-content/uploads/2016/09/ScreenShot4.png)
+![](http://developer.adca.sh/wp-content/uploads/2016/09/ScreenShot41.png)
 
 ##3. Release App
 
